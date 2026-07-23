@@ -31,5 +31,13 @@
     "skills": ["Service portal", "Flow designer", "Performance analytics"],
     
     "source": "https://github.com/Harish10092004/TIH"
+  },
+  {
+    "title": "AIoT Enabled Smart Flood Detection and Autonomous Power Isolation System",
+    "imageSrc": "projects/powerisolation.jpg",
+    "description": " Built a AIot enabled smart flood detection and autonomous power isolation system for real - time safety and predictive risk management",
+    "skills": ["AIot", "Arduino","Cloud dashboard"],
+    
+    "source": "https://github.com/Harish10092004/TIH"
   }
 ]

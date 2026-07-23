@@ -1,19 +1,19 @@
-[ {
-    "role": "Software Development Engineer",
-    "organisation": "Bluestock Fintech",
-    "startDate": "Apr, 2025",
-    "endDate": "June,2025",
-    "experiences": ["Worked on Frontend in Bluestock Fintech website"],
-    "imageSrc": "history/bluestock.png"
-  },
+[ 
     {
     "role": "Full Stack Developer",
     "organisation": "Technology Innovation Hub",
     "startDate": "May, 2024",
     "endDate": "May, 2025",
-    "experiences": ["Worked on College projects as Backend developer", "Developed Complaint System and Task Manager for efficient issue tracking"],
+    "experiences": ["Built College projects as developer to improve efficency", "Developed Complaint System and Task Manager for efficient issue tracking"],
     "imageSrc": "history/tih.png"
+  },
+ {
+    "role": "Business Technology Analyst",
+    "organisation": "Deloitte USI",
+    "startDate": "Jan, 2026",
+    "endDate": "Jul, 2026",
+    "experiences": ["Assisted in enterprise projects and trained in various tools like ServiceNow CSM and CPQ, Varicent and Salesforce"],
+    "imageSrc": "history/Deloitte.png"
   }
- 
   
 ]

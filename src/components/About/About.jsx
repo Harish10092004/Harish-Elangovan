@@ -17,29 +17,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>ServiceNow Enthusiast</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Passionate about developing and customizing ServiceNow applications, automating workflows, and building efficient enterprise solutions that streamline business processes.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>React Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Building responsive, modern, and user-friendly web applications with React, JavaScript, and contemporary frontend technologies for seamless user experiences.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>ServiceNow Developer</h3>
+              <h3>Full-Stack Developer</h3>
               <p>
-                Developed and customized ServiceNow applications, automated workflows, and integrated modules to enhance business process efficiency.
+                Developing scalable end-to-end web applications using Java, Spring Boot, React, MySQL, and REST APIs with a focus on performance and clean architecture.
 
               </p>
             </div>

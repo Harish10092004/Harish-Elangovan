@@ -1,30 +1,24 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
   },
   {
     "title": "JavaScript",
     "imageSrc": "skills/js.png"
   },
   {
-    "title": "MySQL",
-    "imageSrc": "skills/mysql.png"
-  },
-
-  {
     "title": "React",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
   },
   {
     "title": "PHP",
     "imageSrc": "skills/php.png"
   },
- 
   {
     "title": "Laravel",
     "imageSrc": "skills/laravel.png"
@@ -32,5 +26,13 @@
   {
     "title": "ServiceNow",
     "imageSrc": "skills/servicelogo.png"
+  },
+  {
+    "title": "Salesforce",
+    "imageSrc": "skills/Salesforce.png"
+  },
+  {
+    "title": "Varicent",
+    "imageSrc": "skills/varicentlogo.png"
   }
 ]
